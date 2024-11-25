@@ -84,9 +84,9 @@ streamlit run Cars_Price_Predictor.py
 ```
 
 ## Model Performance
-- Best Model: [XGBRegressor]
-- R² Score: [0.954425]
-- Mean Squared Error: [0.033442]
+- Best Model: XGBRegressor
+- R² Score: 0.954425
+- Mean Squared Error: 0.033442
 
 ## Key Features
 - Data cleaning and preprocessing

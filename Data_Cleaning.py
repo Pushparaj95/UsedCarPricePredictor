@@ -534,7 +534,7 @@ def process_and_impute_missing_values(original_df, new_df):
     df_encoded = merged_df.copy()
     
     # Identify columns to encode
-    columns_to_encode = [column for column in merged_df.columns if column not in missing_columns]
+    columns_to_encode = [column for column in merged_df.columns if column not in missing_columns and column not in ['Engine', 'Mileage', 'Seats']]
 
     # Step 5: Encode columns
     for column in columns_to_encode:

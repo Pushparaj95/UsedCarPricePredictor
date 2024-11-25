@@ -70,7 +70,7 @@ def display_homepage():
     # Add a visually appealing CTA
     st.markdown("""
     <div style='text-align: center; margin-top: 30px;'>
-        <a href="/PricePredictor" style="background-color: #28B463; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-size: 18px;">
+        <a href="/#used-cars-price-predictor" style="background-color: #28B463; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-size: 18px;">
         🚀 Start Predicting Now
         </a>
     </div>
@@ -101,7 +101,7 @@ if option == 'Home':
 
 # Fetch Data
 elif option == 'Car Price Predictor':
-    st.markdown("<h1 style='text-align: center;'>OLD CAR Price Predictor</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: #2E86C1;'>Used CARS Price Predictor</h1>", unsafe_allow_html=True)
 
     # Define UI-to-DF mapping
     ui_to_df_mapping = {

@@ -321,7 +321,7 @@ chennai,Hatchback,1,Maruti,Celerio,2017,ZXI,13.038979594549872,2017,Comprehensiv
 chennai,Sedan,1,Honda,City,2021,VX MT,14.050582680143757,2021,Third Party,Petrol,5,30000,Manual,2021,1498,18.6,3
 chennai,Hatchback,2,Hyundai,i20 Active,2016,1.4 S,13.248114582709889,2016,Comprehensive,Diesel,5,80805,Manual,2016,1396,21.19,8
 chennai,Hatchback,1,Tata,Tiago,2020,XZ,13.335860551666734,2020,Comprehensive,Petrol,5,26235,Manual,2020,1199,23.84,4
-chennai,Sedan,0,Honda,City,2017,i VTEC,13.353475098367715,2017,Third Party,Petrol,5,95963,Manual,2017,1497,17.8,7
+chennai,Sedan,1,Honda,City,2017,i VTEC,13.353475098367715,2017,Third Party,Petrol,5,95963,Manual,2017,1497,17.8,7
 chennai,SUV,1,Hyundai,Creta,2018,1.6 E,13.635187003832993,2018,Comprehensive,Petrol,5,83294,Manual,2018,1591,15.8,6
 chennai,SUV,2,MG,Hector,2021,Sharp,14.347901959644826,2021,Third Party,Diesel,5,17963,Manual,2021,1956,17.41,3
 chennai,Hatchback,1,Maruti,Baleno,2019,Alpha,13.36138027787483,2019,Comprehensive,Petrol,5,102696,Manual,2019,1197,21.4,5
@@ -411,7 +411,7 @@ chennai,SUV,1,Ford,Ecosport,2016,1.5 TDCi,13.435713196604688,2016,Comprehensive,
 chennai,Hatchback,1,Datsun,RediGO,2018,T Option,12.641096555879882,2018,Third Party,Petrol,5,91261,Manual,2018,799,22.7,6
 chennai,Hatchback,1,Maruti,Celerio,2018,ZXI,13.122363377404328,2018,Comprehensive,Petrol,5,36711,Manual,2018,998,21.63,6
 chennai,Sedan,1,BMW,3 Series Gran Limousine,2021,330 Li,15.5202586502027,2021,Comprehensive,Petrol,5,9000,Automatic,2021,1998,15.3,3
-chennai,Hatchback,0,Maruti,Baleno,2018,Delta,13.38472764187182,2018,Third Party,Petrol,5,30428,Manual,2018,1197,21.4,6
+chennai,Hatchback,1,Maruti,Baleno,2018,Delta,13.38472764187182,2018,Third Party,Petrol,5,30428,Manual,2018,1197,21.4,6
 chennai,Hatchback,1,Renault,KWID,2018,1.0 RXL,12.793859310432293,2018,Comprehensive,Petrol,5,49791,Manual,2018,999,23.01,6
 chennai,SUV,1,MG,Hector Plus,2021,Sharp,14.444119217386648,2021,Third Party,Diesel,6,40000,Manual,2021,1956,16.65,3
 chennai,Sedan,2,Hyundai,Xcent,2014,1.2 Kappa,13.017002861746503,2014,Third Party,Petrol,5,40000,Manual,2014,1197,19.1,10
@@ -458,7 +458,7 @@ chennai,Sedan,1,Maruti,Ciaz,2017,Delta,13.458835614025542,2017,Third Party,Diese
 chennai,Sedan,1,Hyundai,Xcent,2016,VTVT Plus,12.987688474077729,2016,Third Party,Petrol,5,90000,Manual,2016,1197,19.1,8
 chennai,Sedan,1,Hyundai,Xcent,2015,1.2 Kappa,13.038979594549872,2015,Third Party,Petrol,5,50197,Manual,2015,1197,19.1,9
 chennai,Sedan,2,Hyundai,Accent,2012,Executive,12.429216196844385,2012,Third Party,Petrol,5,80000,Manual,2012,1495,16.36,12
-chennai,Hatchback,0,Honda,Jazz,2016,1.2 VX,13.16158409055761,2016,Third Party,Petrol,5,60611,Manual,2016,1199,18.7,8
+chennai,Hatchback,1,Honda,Jazz,2016,1.2 VX,13.16158409055761,2016,Third Party,Petrol,5,60611,Manual,2016,1199,18.7,8
 chennai,SUV,3,Ford,Ecosport,2017,1.5 Ti,13.24634935718532,2017,Third Party,Petrol,5,61120,Manual,2017,1499,15.85,7
 chennai,Hatchback,1,Renault,KWID,2019,RXT,12.90669184092882,2019,Third Party,Petrol,5,55415,Manual,2019,999,23.01,5
 chennai,SUV,1,Jaguar,F-Pace,2018,Pure 2.0,15.414898134544874,2018,Comprehensive,Diesel,5,52000,Automatic,2018,1999,16.38,6
@@ -536,7 +536,7 @@ chennai,SUV,2,Honda,WR-V,2017,i-VTEC,13.262125319779487,2017,Comprehensive,Petro
 chennai,SUV,1,Hyundai,Creta,2016,1.6 VTVT,13.647090722906658,2016,Comprehensive,Petrol,5,49000,Manual,2016,1591,13.0,8
 chennai,Sedan,1,Hyundai,Xcent,2015,1.2 VTVT,12.911642346088676,2015,Comprehensive,Petrol,5,86694,Manual,2015,1197,20.14,9
 chennai,Sedan,2,Maruti,Swift Dzire,2013,LDI,12.611537753638338,2013,Third Party,Diesel,5,150000,Manual,2013,1248,23.4,11
-chennai,Sedan,0,Honda,City,2019,V MT,13.737549016494562,2019,Third Party,Petrol,5,25284,Manual,2019,1497,17.4,5
+chennai,Sedan,1,Honda,City,2019,V MT,13.737549016494562,2019,Third Party,Petrol,5,25284,Manual,2019,1497,17.4,5
 chennai,Hatchback,1,Toyota,Glanza,2021,G,13.527828485512494,2021,Third Party,Petrol,5,30000,Manual,2021,1197,21.01,3
 chennai,Sedan,2,BMW,3 Series,2015,320d Sport,14.077874822431763,2015,Third Party,Diesel,5,109000,Automatic,2015,1995,18.88,9
 chennai,MUV,1,Kia,Carens,2022,Luxury Plus,14.35434037813986,2022,Comprehensive,Petrol,6,4605,Manual,2022,1353,16.2,2
@@ -578,7 +578,7 @@ chennai,SUV,2,Audi,Q7,2013,3.0 TDI,14.580978400103843,2013,Comprehensive,Diesel,
 chennai,Sedan,1,Audi,A4,2012,2.0 TDI,14.187074114396758,2012,Comprehensive,Diesel,5,80000,Automatic,2012,1968,17.11,12
 chennai,SUV,1,Maruti,SX4 S Cross,2018,DDiS 200,13.623138665316818,2018,Third Party,Diesel,5,72020,Manual,2018,1248,23.65,6
 chennai,MUV,1,Toyota,Innova Crysta,2017,2.4 ZX,14.430696197054507,2017,Comprehensive,Diesel,7,98000,Manual,2017,2393,13.68,7
-chennai,Hatchback,0,Maruti,Alto,2007,LXI,12.013700752882718,2007,Third Party,Petrol,5,36385,Manual,2007,796,19.7,17
+chennai,Hatchback,1,Maruti,Alto,2007,LXI,12.013700752882718,2007,Third Party,Petrol,5,36385,Manual,2007,796,19.7,17
 chennai,SUV,1,Hyundai,Alcazar,2022,Platinum,14.504147583046333,2022,Third Party,Diesel,7,4259,Manual,2022,1493,20.4,2
 chennai,SUV,1,Tata,Harrier,2021,XZA,14.50565322950392,2021,Third Party,Diesel,5,12925,Automatic,2021,1956,14.6,3
 chennai,SUV,1,Volkswagen,Taigun,2022,1.5 TSI,14.31325094218161,2022,Comprehensive,Petrol,5,27000,Automatic,2022,1498,17.88,2
@@ -735,7 +735,7 @@ chennai,Hatchback,1,Hyundai,EON,2012,Magna,12.254862809699606,2012,Third Party,P
 chennai,MUV,1,Toyota,Innova Crysta,2021,2.4 GX,14.721750953984929,2021,Comprehensive,Diesel,7,19000,Automatic,2021,2393,12.0,3
 chennai,Hatchback,1,Maruti,Alto 800,2020,VXI,12.89921982609012,2020,Third Party,Petrol,5,10000,Manual,2020,796,22.05,4
 chennai,Hatchback,1,Maruti,Celerio,2015,AMT,12.765688433465597,2015,Comprehensive,Petrol,5,128876,Automatic,2015,998,21.63,9
-chennai,Hatchback,0,Maruti,Wagon R,2016,VXI,12.971540487669746,2016,Third Party,Petrol,5,37942,Manual,2016,998,20.51,8
+chennai,Hatchback,1,Maruti,Wagon R,2016,VXI,12.971540487669746,2016,Third Party,Petrol,5,37942,Manual,2016,998,20.51,8
 chennai,Hatchback,1,Hyundai,Grand i10,2018,1.2 Kappa,13.151922179645874,2019,Comprehensive,Petrol,5,37300,Manual,2018,1197,18.9,5
 chennai,SUV,2,Mercedes-Benz,GLC,2017,220d 4MATIC,15.137266397946592,2017,Comprehensive,Diesel,5,30000,Automatic,2017,2143,17.9,7
 chennai,Hatchback,1,Maruti,Zen,2002,LX,11.695247021764184,2002,Third Party,Petrol,5,60000,Manual,2002,993,17.3,22
@@ -776,7 +776,7 @@ chennai,Sedan,1,BMW,2 Series,2023,220i M,15.373655176010825,2023,Comprehensive,P
 chennai,SUV,1,Ford,Ecosport,2021,1.5 Diesel,13.764217263576723,2021,Third Party,Diesel,5,40000,Manual,2021,1498,21.7,3
 chennai,MUV,2,Maruti,Ertiga,2020,VXI,13.840203170554645,2020,Third Party,Petrol,7,20000,Automatic,2020,1462,17.99,4
 chennai,Sedan,2,Maruti,Swift Dzire,2008,ZXI,12.409013489526863,2008,Third Party,Petrol,5,68283,Manual,2008,1298,17.5,16
-chennai,Sedan,0,Honda,Amaze,2014,S i-Vtech,12.88664104388326,2014,Third Party,Petrol,5,73045,Manual,2014,1198,18.0,10
+chennai,Sedan,1,Honda,Amaze,2014,S i-Vtech,12.88664104388326,2014,Third Party,Petrol,5,73045,Manual,2014,1198,18.0,10
 chennai,SUV,1,Hyundai,Creta,2018,1.4 E,13.892471599100402,2018,Comprehensive,Diesel,5,49000,Manual,2018,1396,22.1,6
 chennai,MUV,1,Chevrolet,Tavera,2009,LS B3,12.206072645530174,2009,Third Party,Diesel,10,150000,Manual,2009,2499,12.2,15
 chennai,Hatchback,2,Hyundai,i20,2016,Asta,13.317930160948304,2017,Third Party,Petrol,5,47547,Manual,2016,1197,18.6,7
@@ -811,7 +811,7 @@ chennai,Hatchback,2,Hyundai,Grand i10,2016,Sportz,12.948009990259552,2016,Third 
 chennai,SUV,1,Ford,Ecosport,2017,1.0 Ecoboost,13.46453363514018,2018,Zero Dep,Petrol,5,34097,Manual,2017,999,18.88,6
 chennai,SUV,1,Nissan,Magnite,2022,Turbo CVT,13.764217263576723,2022,Third Party,Petrol,5,10000,Automatic,2022,999,17.4,2
 chennai,SUV,1,Mercedes-Benz,GLE,2022,300d,16.012735135300492,2022,Comprehensive,Diesel,5,3000,Automatic,2022,1950,17.9,2
-chennai,Hatchback,0,Hyundai,i20,2021,Sportz,13.554145793829866,2021,Third Party,Petrol,5,19252,Manual,2021,998,20.0,3
+chennai,Hatchback,1,Hyundai,i20,2021,Sportz,13.554145793829866,2021,Third Party,Petrol,5,19252,Manual,2021,998,20.0,3
 chennai,SUV,1,Kia,Sonet,2020,GTX Plus,13.997832114758229,2020,Third Party,Diesel,5,30000,Automatic,2020,1493,18.0,4
 chennai,Hatchback,3,Fiat,Grande Punto,2010,Emotion,11.695247021764184,2010,Third Party,Petrol,5,80000,Manual,2010,1368,14.6,14
 chennai,Sedan,1,Maruti,Swift Dzire,2021,VXI,13.527828485512494,2021,Comprehensive,Petrol,5,25581,Manual,2021,1197,20.85,3
@@ -830,7 +830,7 @@ chennai,SUV,1,Hyundai,Creta,2017,CRDi,14.010254634756786,2017,Comprehensive,Dies
 chennai,Hatchback,1,Hyundai,i20,2016,Asta,13.36138027787483,2016,Third Party,Petrol,5,17160,Manual,2016,1197,18.6,8
 chennai,SUV,1,Volkswagen,Taigun,2022,1.0 TSI,14.198048161428732,2023,Third Party,Petrol,5,15817,Manual,2022,999,20.08,1
 chennai,Hatchback,2,Renault,KWID,2021,Climber,13.122363377404328,2021,Third Party,Petrol,5,10000,Manual,2021,999,21.74,3
-chennai,Hatchback,0,Renault,KWID,2020,RXT,12.959844447906551,2020,Third Party,Petrol,5,31268,Manual,2020,999,21.74,4
+chennai,Hatchback,1,Renault,KWID,2020,RXT,12.959844447906551,2020,Third Party,Petrol,5,31268,Manual,2020,999,21.74,4
 chennai,Hatchback,1,Maruti,Celerio,2019,ZXI,13.122363377404328,2019,Third Party,Petrol,5,7267,Manual,2019,998,23.1,5
 chennai,Hatchback,2,Honda,Jazz,2017,1.2 VX,13.217673557208654,2017,Third Party,Petrol,5,30000,Manual,2017,1199,18.7,7
 chennai,Hatchback,2,Tata,Nano,2012,Lx,11.37366339763672,2012,Third Party,Petrol,4,60000,Manual,2012,624,25.4,12
@@ -852,11 +852,11 @@ chennai,Hatchback,2,Maruti,Celerio,2017,ZXI,13.1538620444637,2017,Comprehensive,
 chennai,Sedan,1,Maruti,Ciaz,2018,Delta,13.764217263576723,2018,Third Party,Diesel,5,20000,Manual,2018,1248,28.09,6
 chennai,SUV,2,Mahindra,XUV500,2014,W6,13.623138665316818,2014,Third Party,Diesel,7,80000,Manual,2014,2179,15.1,10
 chennai,Hatchback,1,Mahindra,KUV 100 NXT,2017,D75,12.834681304952548,2017,Comprehensive,Diesel,6,91112,Manual,2017,1198,25.32,7
-chennai,Hatchback,0,Maruti,Alto,2009,LXI,12.100712129872347,2009,Third Party,Petrol,5,68767,Manual,2009,796,19.7,15
+chennai,Hatchback,1,Maruti,Alto,2009,LXI,12.100712129872347,2009,Third Party,Petrol,5,68767,Manual,2009,796,19.7,15
 chennai,MUV,1,Kia,Carens,2022,Luxury Plus,14.457364444136669,2022,Third Party,Petrol,6,30000,Automatic,2022,1353,16.5,2
 chennai,SUV,1,Kia,Sonet,2022,HTK Plus,13.710150042306449,2022,Third Party,Petrol,5,10000,Manual,2022,1197,18.4,2
 chennai,Hatchback,1,Maruti,Alto 800,2013,LXI,12.230760380059866,2013,Comprehensive,Petrol,5,42600,Manual,2013,796,22.74,11
-chennai,Hatchback,0,Maruti,Baleno,2021,Delta,13.473020249017498,2021,Third Party,Petrol,5,13270,Manual,2021,1197,21.01,3
+chennai,Hatchback,1,Maruti,Baleno,2021,Delta,13.473020249017498,2021,Third Party,Petrol,5,13270,Manual,2021,1197,21.01,3
 chennai,Sedan,1,Maruti,Swift Dzire,2019,VXI,13.353475098367715,2019,Third Party,Petrol,5,40000,Manual,2019,1197,21.21,5
 chennai,Sedan,3,Ford,Fiesta,2009,1.6 SXI,11.951180395901384,2009,Third Party,Petrol,5,120000,Manual,2009,1596,15.3,15
 chennai,Sedan,2,Honda,City,2017,i VTEC,13.591116224748411,2017,Third Party,Petrol,5,22286,Manual,2017,1497,17.8,7
@@ -917,7 +917,7 @@ chennai,SUV,1,Kia,Sonet,2021,GTX Plus,14.018451401960965,2021,Comprehensive,Petr
 chennai,Hatchback,1,Maruti,Swift,2018,AMT,13.337474757021274,2018,Comprehensive,Petrol,5,42891,Automatic,2018,1197,21.21,6
 chennai,Hatchback,1,Maruti,Wagon R,2015,VXI,12.88664104388326,2015,Comprehensive,Petrol,5,34640,Manual,2015,998,18.9,9
 chennai,Hatchback,1,Maruti,Baleno,2017,Zeta,13.270783382522602,2017,Third Party,Petrol,5,40000,Manual,2017,1197,21.4,7
-chennai,Sedan,0,Maruti,Swift Dzire,2009,VDI,12.644327576461327,2009,Third Party,Diesel,5,129306,Manual,2009,1248,19.3,15
+chennai,Sedan,1,Maruti,Swift Dzire,2009,VDI,12.644327576461327,2009,Third Party,Diesel,5,129306,Manual,2009,1248,19.3,15
 chennai,SUV,1,Volkswagen,Taigun,2021,1.0 TSI,14.187074114396758,2021,Comprehensive,Petrol,5,42662,Manual,2021,999,20.08,3
 chennai,Sedan,1,Hyundai,Xcent,2016,1.2 Kappa,13.17115354157376,2016,Comprehensive,Petrol,5,64011,Automatic,2016,1197,19.1,8
 chennai,Hatchback,3,Maruti,Swift,2013,VXI,12.923909999653128,2014,Comprehensive,Petrol,5,85750,Manual,2013,1197,22.38,10
@@ -975,7 +975,7 @@ chennai,Hatchback,1,Chevrolet,Beat,2016,Diesel LS,12.323855681186558,2016,Third 
 chennai,Hatchback,1,Maruti,Ignis,2017,Delta,13.122363377404328,2017,Third Party,Petrol,5,20000,Manual,2017,1197,20.89,7
 chennai,SUV,1,Hyundai,Creta,2018,CRDi,13.955272500339431,2018,Third Party,Diesel,5,70000,Manual,2018,1582,19.67,6
 chennai,Hatchback,1,Datsun,RediGO,2018,T Option,12.560244459250788,2018,Third Party,Petrol,5,30000,Manual,2018,799,22.7,6
-chennai,Sedan,0,Honda,City,2015,i VTEC,13.005829561148378,2015,Third Party,Petrol,5,167332,Manual,2015,1497,17.4,9
+chennai,Sedan,1,Honda,City,2015,i VTEC,13.005829561148378,2015,Third Party,Petrol,5,167332,Manual,2015,1497,17.4,9
 chennai,Sedan,2,Honda,City,2015,VX MT,13.217673557208654,2015,Comprehensive,Petrol,5,71887,Manual,2015,1497,17.4,9
 chennai,Hatchback,2,Ford,Figo,2011,Diesel EXI,12.206072645530174,2011,Third Party,Diesel,5,100000,Manual,2011,1399,20.0,13
 chennai,SUV,2,Skoda,Kushaq,2021,1.0 TSI,14.077874822431763,2021,Third Party,Petrol,5,20000,Automatic,2021,999,17.2,3
@@ -984,7 +984,7 @@ chennai,Hatchback,2,Toyota,Etios Liva,2012,G,12.644327576461327,2012,Third Party
 chennai,SUV,1,Hyundai,Creta,2022,SX Opt,14.417090544998729,2022,Comprehensive,Petrol,5,15000,Automatic,2022,1497,14.8,2
 chennai,Hatchback,1,Maruti,Swift,2013,VDI,12.97386104889758,2013,Comprehensive,Diesel,5,71195,Manual,2013,1248,22.9,11
 chennai,Sedan,1,Volkswagen,Vento,2016,1.2 TSI,13.498056327178825,2016,Third Party,Petrol,5,91700,Automatic,2016,1197,18.19,8
-chennai,Hatchback,0,Maruti,Alto K10,2015,VXI,12.323855681186558,2015,Third Party,Petrol,5,132724,Manual,2015,998,23.95,9
+chennai,Hatchback,1,Maruti,Alto K10,2015,VXI,12.323855681186558,2015,Third Party,Petrol,5,132724,Manual,2015,998,23.95,9
 chennai,SUV,1,Maruti,Vitara Brezza,2016,zdi,13.665849783409868,2016,Comprehensive,Diesel,5,59232,Manual,2016,1248,24.3,8
 chennai,Hatchback,1,Volkswagen,Polo,2017,GT TSI,13.567049198665774,2017,Third Party,Petrol,5,55023,Automatic,2017,1197,17.21,7
 chennai,SUV,1,Hyundai,Creta,2020,SX Diesel,14.206200380490284,2020,Third Party,Diesel,5,58323,Manual,2020,1493,22.1,4
@@ -1071,17 +1071,17 @@ chennai,Hatchback,1,Ford,Figo,2021,Titanium,13.514405465180351,2021,Comprehensiv
 chennai,Hatchback,1,Maruti,Celerio,2017,ZXI,13.16158409055761,2017,Comprehensive,Petrol,5,58263,Manual,2017,998,25.24,7
 chennai,Minivans,1,Maruti,Eeco,2021,7 Seater,13.06048797368624,2021,Third Party,Petrol,7,20000,Manual,2021,1196,16.11,3
 chennai,Hatchback,3,Maruti,Ritz,2015,LDi,12.206072645530174,2015,Third Party,Diesel,5,80000,Manual,2015,1248,23.2,9
-chennai,Hatchback,0,Maruti,Swift,2013,LDI,12.88664104388326,2013,Third Party,Diesel,5,65991,Manual,2013,1248,22.9,11
+chennai,Hatchback,1,Maruti,Swift,2013,LDI,12.88664104388326,2013,Third Party,Diesel,5,65991,Manual,2013,1248,22.9,11
 chennai,Hatchback,1,Mahindra,KUV 100 NXT,2016,D75,12.765688433465597,2016,Comprehensive,Diesel,6,13397,Manual,2016,1198,25.32,8
 chennai,Sedan,2,Maruti,Ciaz,2015,VXI,13.217673557208654,2015,Comprehensive,Petrol,5,57121,Automatic,2015,1373,19.12,9
 chennai,Sedan,1,Tata,Zest,2015,Revotron 1.2T,12.89921982609012,2016,Comprehensive,Petrol,5,70418,Manual,2015,1193,17.57,8
-chennai,Sedan,0,Honda,Amaze,2019,S CVT,13.369223455335854,2019,Third Party,Petrol,5,22421,Automatic,2019,1199,19.0,5
-chennai,Hatchback,0,Tata,Indica,2009,Terra 1.4,11.813030057420567,2009,Third Party,Diesel,5,83045,Manual,2009,1405,17.0,15
-chennai,Hatchback,0,Hyundai,i10,2008,Magna,12.0435537160324,2008,Third Party,Petrol,5,86715,Manual,2008,1197,20.36,16
-chennai,Hatchback,0,Hyundai,i10,2008,Magna,12.180754837545884,2008,Third Party,Petrol,5,77032,Manual,2008,1086,19.81,16
+chennai,Sedan,1,Honda,Amaze,2019,S CVT,13.369223455335854,2019,Third Party,Petrol,5,22421,Automatic,2019,1199,19.0,5
+chennai,Hatchback,1,Tata,Indica,2009,Terra 1.4,11.813030057420567,2009,Third Party,Diesel,5,83045,Manual,2009,1405,17.0,15
+chennai,Hatchback,1,Hyundai,i10,2008,Magna,12.0435537160324,2008,Third Party,Petrol,5,86715,Manual,2008,1197,20.36,16
+chennai,Hatchback,1,Hyundai,i10,2008,Magna,12.180754837545884,2008,Third Party,Petrol,5,77032,Manual,2008,1086,19.81,16
 chennai,Hatchback,1,Datsun,RediGO,2019,A,12.65075846679162,2019,Third Party,Petrol,5,21614,Manual,2019,799,22.7,5
 chennai,Hatchback,1,Maruti,Alto 800,2020,LXI,12.855790268162783,2020,Third Party,Petrol,5,35375,Manual,2020,796,22.05,4
-chennai,Sedan,0,Volkswagen,Vento,2010,Highline,12.644327576461327,2010,Third Party,Diesel,5,89545,Manual,2010,1598,20.54,14
+chennai,Sedan,1,Volkswagen,Vento,2010,Highline,12.644327576461327,2010,Third Party,Diesel,5,89545,Manual,2010,1598,20.54,14
 chennai,Hatchback,1,Hyundai,i20,2019,Sportz,13.287877815881902,2019,Third Party,Petrol,5,83298,Manual,2019,1197,18.6,5
 chennai,Hatchback,1,Maruti,Ignis,2022,Alpha,13.53843866462451,2022,Zero Dep,Petrol,5,33250,Automatic,2022,1197,20.89,2
 chennai,Hatchback,2,Honda,Jazz,2015,V,13.081541382884074,2015,Comprehensive,Petrol,5,75000,Manual,2015,1199,18.2,9
@@ -1374,9 +1374,9 @@ chennai,Sedan,2,Audi,A4,2013,35 TDI,14.144814305106877,2013,Comprehensive,Diesel
 chennai,Sedan,1,Volkswagen,Vento,2017,1.6 MPI,13.652991628466498,2018,Third Party,Petrol,5,15100,Manual,2017,1598,16.09,6
 chennai,SUV,2,Audi,Q3,2016,35 TDI,14.70134208235372,2016,Comprehensive,Diesel,5,70000,Automatic,2016,1968,15.17,8
 chennai,SUV,2,Audi,Q3,2016,35 TDI,14.669925886120344,2017,Comprehensive,Diesel,5,75000,Automatic,2016,1968,15.17,7
-chennai,SUV,0,Audi,Q3,2022,Technology,15.29711509888849,2022,Third Party,Petrol,5,15000,Automatic,2022,1984,13.47,2
+chennai,SUV,1,Audi,Q3,2022,Technology,15.29711509888849,2022,Third Party,Petrol,5,15000,Automatic,2022,1984,13.47,2
 chennai,SUV,1,Kia,Sonet,2020,HTX,13.864300722133706,2020,Third Party,Petrol,5,23700,Manual,2020,998,18.2,4
-chennai,SUV,0,Renault,Kiger,2022,RXZ,13.787111083442577,2022,Third Party,Petrol,5,7087,Manual,2022,999,20.5,2
+chennai,SUV,1,Renault,Kiger,2022,RXZ,13.787111083442577,2022,Third Party,Petrol,5,7087,Manual,2022,999,20.5,2
 chennai,Hatchback,1,Hyundai,Grand i10 Nios,2020,Asta,13.493926933836812,2020,Comprehensive,Petrol,5,40000,Manual,2020,1197,20.7,4
 chennai,Hatchback,2,Renault,KWID,2016,RXT,12.66349749256905,2016,Third Party,Petrol,5,58155,Manual,2016,799,25.17,8
 chennai,SUV,3,Ford,Ecosport,2020,1.5 Petrol,13.664687668229693,2020,Third Party,Petrol,5,30015,Automatic,2020,1497,14.8,4
@@ -3164,7 +3164,7 @@ delhi,SUV,2,Hyundai,Creta,2017,1.6 VTVT,13.757881445127635,2017,Third Party,Petr
 delhi,Sedan,1,Mercedes-Benz,S-Class,2021,S 350,16.00156183470237,2021,Comprehensive,Diesel,5,36000,Automatic,2021,2925,13.5,3
 delhi,SUV,1,BMW,X1,2017,sDrive,14.569282360340654,2017,Comprehensive,Diesel,5,60000,Automatic,2017,1995,17.05,7
 delhi,Sedan,1,Ford,Aspire,2019,Titanium,13.15773052124162,2019,Zero Dep,Petrol,5,64668,Manual,2019,1194,19.4,5
-delhi,SUV,0,MG,Gloster,2023,Savvy,15.319587954740548,2023,Comprehensive,Diesel,6,7800,Automatic,2023,1996,12.04,1
+delhi,SUV,1,MG,Gloster,2023,Savvy,15.319587954740548,2023,Comprehensive,Diesel,6,7800,Automatic,2023,1996,12.04,1
 delhi,Sedan,1,Honda,City,2014,i VTEC,13.260384675301705,2014,Comprehensive,Petrol,5,87313,Manual,2014,1497,17.4,10
 delhi,SUV,2,Volvo,XC60,2018,D4,15.150511624696614,2018,Comprehensive,Diesel,5,60000,Automatic,2018,1984,14.7,6
 delhi,Hatchback,1,Honda,Jazz,2015,1.2 V,13.01477816672439,2015,Comprehensive,Petrol,5,39000,Manual,2015,1199,18.7,9
@@ -3650,7 +3650,7 @@ delhi,Hatchback,1,Maruti,Alto 800,2020,LXI,12.80765263256463,2020,Comprehensive,
 delhi,Sedan,1,Maruti,Swift Dzire Tour,2021,1.2 S,13.38472764187182,2021,Third Party,CNG,5,20000,Manual,2021,1197,26.55,3
 delhi,SUV,1,Maruti,SX4 S Cross,2015,DDiS 200,13.01477816672439,2015,Comprehensive,Diesel,5,70000,Manual,2015,1248,23.65,9
 delhi,Hatchback,1,Honda,Jazz,2017,1.2 V,13.303016877097589,2017,Comprehensive,Petrol,5,72000,Automatic,2017,1199,19.0,7
-delhi,SUV,0,MG,Gloster,2023,Savvy,15.351301930230075,2023,Comprehensive,Diesel,6,7800,Automatic,2023,1996,12.04,1
+delhi,SUV,1,MG,Gloster,2023,Savvy,15.351301930230075,2023,Comprehensive,Diesel,6,7800,Automatic,2023,1996,12.04,1
 delhi,Hatchback,1,Tata,Tiago,2020,XZ,13.120361374733656,2020,Comprehensive,Petrol,5,25000,Manual,2020,1199,20.09,4
 delhi,SUV,1,Lexus,RX,2020,450hL,15.990262279448435,2020,Comprehensive,Petrol,5,19000,Automatic,2020,3456,18.8,4
 delhi,Sedan,1,Skoda,Slavia,2022,1.0 TSI,14.121523587100778,2022,Zero Dep,Petrol,5,11332,Automatic,2022,999,18.07,2
@@ -4204,7 +4204,7 @@ delhi,Hatchback,3,Hyundai,Grand i10,2017,CRDi,12.84792653170257,2017,Third Party
 delhi,SUV,1,Mahindra,Thar,2023,LX 4-Str,14.444119217386648,2023,Third Party,Diesel,4,4900,Automatic,2023,2184,15.2,1
 delhi,Hatchback,1,Maruti,Swift,2017,LXI,12.983099011217604,2017,Comprehensive,Petrol,5,55000,Manual,2017,1197,20.4,7
 delhi,SUV,2,Kia,Seltos,2021,HTK G,13.737549016494562,2021,Third Party,Petrol,5,20000,Manual,2021,1497,16.8,3
-delhi,SUV,0,Land Rover,Range Rover Sport,2018,HSE,16.147654453199863,2018,Third Party,Diesel,5,35000,Automatic,2018,2993,12.65,6
+delhi,SUV,1,Land Rover,Range Rover Sport,2018,HSE,16.147654453199863,2018,Third Party,Diesel,5,35000,Automatic,2018,2993,12.65,6
 delhi,Hatchback,2,Mini,Cooper,2014,S,14.50865773852422,2014,Comprehensive,Petrol,4,22000,Automatic,2014,1598,13.6,10
 delhi,SUV,1,Mahindra,Scorpio Classic,2022,S11,14.389310980891652,2022,Third Party,Diesel,7,45000,Manual,2022,2184,15.4,2
 delhi,Sedan,1,Honda,Amaze,2019,V CVT,13.514405465180351,2019,Third Party,Petrol,5,26000,Automatic,2019,1199,19.0,5
@@ -4340,7 +4340,7 @@ delhi,Hatchback,1,Maruti,Wagon R,2013,VXI,12.506177237980513,2013,Comprehensive,
 delhi,SUV,1,Ford,Ecosport,2015,1.5 Petrol,13.34550692871854,2015,Comprehensive,Petrol,5,64000,Automatic,2015,1496,14.7,9
 delhi,Sedan,1,Skoda,Octavia,2014,1.8 TSI,13.864300722133706,2014,Comprehensive,Petrol,5,49000,Automatic,2014,1798,15.1,10
 delhi,Hatchback,1,Toyota,Glanza,2022,S,13.514405465180351,2022,Third Party,Petrol,5,30000,Manual,2022,1197,22.35,2
-delhi,Sedan,0,Skoda,Octavia,2017,1.4 TSI,13.863347887378437,2017,Third Party,Petrol,5,37000,Manual,2017,1395,16.7,7
+delhi,Sedan,1,Skoda,Octavia,2017,1.4 TSI,13.863347887378437,2017,Third Party,Petrol,5,37000,Manual,2017,1395,16.7,7
 delhi,Hatchback,2,Hyundai,i20,2018,Petrol Spotz,13.253391639810731,2018,Comprehensive,Petrol,5,30000,Manual,2018,1197,18.6,6
 delhi,Hatchback,1,Honda,Brio,2012,S MT,12.524526376648708,2012,Third Party,Petrol,5,90000,Manual,2012,1198,19.4,12
 delhi,Hatchback,2,Maruti,800,2014,AC,12.429216196844385,2014,Third Party,Petrol,4,40000,Manual,2014,796,16.1,10
@@ -4383,7 +4383,7 @@ delhi,Sedan,1,Honda,City,2019,i-VTEC,13.710150042306449,2019,Third Party,Petrol,
 delhi,SUV,1,Kia,Sonet,2021,HTK Plus,13.764217263576723,2021,Third Party,Petrol,5,20000,Manual,2021,1197,18.4,3
 delhi,Sedan,1,Hyundai,Verna,2011,1.6 SX,12.943236711506891,2011,Third Party,Petrol,5,60000,Manual,2011,1591,17.01,13
 delhi,SUV,1,Hyundai,Creta,2019,1.6 SX,13.993656743347747,2019,Third Party,Diesel,5,38000,Manual,2019,1582,20.5,5
-delhi,SUV,0,MG,Gloster,2023,Savvy,15.350224924202438,2023,Third Party,Diesel,6,7000,Automatic,2023,1996,12.04,1
+delhi,SUV,1,MG,Gloster,2023,Savvy,15.350224924202438,2023,Third Party,Diesel,6,7000,Automatic,2023,1996,12.04,1
 hyderabad,Hatchback,1,Volkswagen,Polo,2022,1.0 TSI,13.85857004742472,2022,Third Party,Petrol,5,20000,Automatic,2022,999,16.47,2
 hyderabad,Hatchback,2,Hyundai,EON,2014,Era,12.468436909997664,2014,Third Party,Petrol,5,85582,Manual,2014,814,21.1,10
 hyderabad,SUV,1,Hyundai,Venue,2023,S,13.769466619462868,2023,Third Party,Petrol,5,10000,Manual,2023,1197,17.52,1
@@ -6309,7 +6309,7 @@ jaipur,Hatchback,1,Hyundai,Grand i10 Nios,2022,Magna,13.437174117244362,2022,Thi
 jaipur,Hatchback,3,Tata,Nano,2011,Lx,11.002099841204238,2011,Third Party,Petrol,4,30000,Manual,2011,624,26.0,13
 jaipur,SUV,1,Hyundai,Kona,2021,Premium,14.28551418721001,2021,Third Party,Electric,5,75000,Automatic,2021,0,20.3,3
 jaipur,SUV,1,Hyundai,Creta,2020,SX Opt,14.26019637922572,2020,Comprehensive,Petrol,5,73500,Automatic,2020,1497,17.9,4
-jaipur,SUV,0,Tata,Nexon EV Max,2023,XZ,14.28551418721001,2023,Comprehensive,Electric,5,4140,Automatic,2023,0,27.28,1
+jaipur,SUV,1,Tata,Nexon EV Max,2023,XZ,14.28551418721001,2023,Comprehensive,Electric,5,4140,Automatic,2023,0,27.28,1
 jaipur,SUV,1,MG,ZS EV,2022,Exclusive,14.71159858252091,2022,Third Party,Electric,5,10371,Automatic,2022,0,16.5,2
 jaipur,Pickup Trucks,1,Isuzu,D-Max,2016,4x4,14.214286677921642,2016,Comprehensive,Diesel,5,75210,Manual,2016,2499,12.4,8
 jaipur,Hatchback,1,Maruti,Wagon R,2017,AMT,12.845291484064564,2017,Third Party,Petrol,5,69159,Automatic,2017,998,20.51,7
@@ -7118,7 +7118,7 @@ kolkata,MUV,1,Maruti,Ertiga,2019,VXI,13.527828485512494,2019,Third Party,Petrol,
 kolkata,SUV,1,Renault,Duster,2017,Petrol RxL,13.219490088135052,2017,Third Party,Petrol,5,47530,Manual,2017,1598,13.06,7
 kolkata,Hatchback,1,Honda,Brio,2014,S MT,12.445089546000672,2014,Comprehensive,Petrol,5,35457,Manual,2014,1198,19.4,10
 kolkata,SUV,1,Kia,Seltos,2020,HTX,14.058456736574664,2020,Comprehensive,Petrol,5,28134,Automatic,2020,1497,16.8,4
-kolkata,SUV,0,Mahindra,XUV300,2022,W8,14.093142294562554,2022,Comprehensive,Petrol,5,5000,Automatic,2022,1197,16.5,2
+kolkata,SUV,1,Mahindra,XUV300,2022,W8,14.093142294562554,2022,Comprehensive,Petrol,5,5000,Automatic,2022,1197,16.5,2
 kolkata,Hatchback,1,Hyundai,i10,2011,Sportz,12.506177237980513,2011,Comprehensive,Petrol,5,28000,Automatic,2011,1197,16.95,13
 kolkata,SUV,1,Jeep,Compass Trailhawk,2023,4x4,14.50865773852422,2023,Third Party,Diesel,5,20000,Automatic,2023,1998,14.9,1
 kolkata,SUV,2,Land Rover,Range Rover Velar,2020,P250,15.88237331743725,2020,Comprehensive,Petrol,5,33582,Automatic,2020,1997,15.8,4
@@ -7524,7 +7524,7 @@ kolkata,SUV,1,Hyundai,Venue,2019,SX Turbo,13.527828485512494,2019,Third Party,Pe
 kolkata,Sedan,1,Maruti,Swift Dzire,2021,ZXI,13.396960210307457,2021,Comprehensive,Petrol,5,9646,Manual,2021,1197,22.41,3
 kolkata,SUV,1,Maruti,SX4 S Cross,2020,Alpha,13.527828485512494,2020,Third Party,Petrol,5,11344,Manual,2020,1462,18.55,4
 kolkata,Sedan,1,BMW,3 Series,2021,330i M,15.341566861459324,2021,Comprehensive,Petrol,5,17899,Automatic,2021,1998,16.13,3
-kolkata,Hatchback,0,Renault,KWID,2021,Climber,13.01477816672439,2021,Comprehensive,Petrol,5,6000,Manual,2021,999,23.01,3
+kolkata,Hatchback,1,Renault,KWID,2021,Climber,13.01477816672439,2021,Comprehensive,Petrol,5,6000,Manual,2021,999,23.01,3
 kolkata,Hatchback,1,Chevrolet,Beat,2010,LT,11.918390573078392,2010,Third Party,Petrol,5,80000,Manual,2010,1199,18.6,14
 kolkata,Hatchback,1,Tata,Indica,2006,DL,11.50995104576804,2006,Third Party,Diesel,5,50000,Manual,2006,1396,17.88,18
 kolkata,Hatchback,2,Hyundai,i20,2014,Asta,13.017002861746503,2014,Third Party,Diesel,5,35000,Manual,2014,1396,22.54,10
@@ -7685,7 +7685,7 @@ kolkata,Hatchback,1,Hyundai,i10,2010,Sportz,12.0435537160324,2010,Third Party,Pe
 kolkata,Hatchback,2,Hyundai,Santro Xing,2010,GL,11.77528972943772,2010,Third Party,Petrol,5,60000,Manual,2010,1086,17.92,14
 kolkata,Sedan,1,Chevrolet,Aveo,2008,1.4 LS,12.0435537160324,2008,Third Party,Petrol,5,60000,Manual,2008,1399,14.4,16
 kolkata,Sedan,1,Mercedes-Benz,C-Class,2020,Progressive,15.196792126004308,2020,Third Party,Diesel,5,30000,Automatic,2020,1950,12.6,4
-kolkata,SUV,0,Mahindra,XUV700,2022,AX7 Diesel,14.613017753848462,2022,Comprehensive,Diesel,7,14000,Manual,2022,2198,15.1,2
+kolkata,SUV,1,Mahindra,XUV700,2022,AX7 Diesel,14.613017753848462,2022,Comprehensive,Diesel,7,14000,Manual,2022,2198,15.1,2
 kolkata,Hatchback,1,Maruti,Wagon R,2018,VXI,13.017002861746503,2018,Third Party,Petrol,5,10000,Manual,2018,998,20.51,6
 kolkata,SUV,2,Volvo,XC60,2020,D5,15.363073066680286,2020,Third Party,Diesel,5,19500,Automatic,2020,1969,11.2,4
 kolkata,Sedan,1,Maruti,Ciaz,2015,zdi,13.017002861746503,2015,Third Party,Diesel,5,55000,Manual,2015,1248,26.21,9
@@ -8082,7 +8082,7 @@ kolkata,Hatchback,1,Maruti,Alto,2021,VXI,12.611537753638338,2021,Third Party,Pet
 kolkata,Sedan,1,Honda,City,2014,i DTEC,12.88664104388326,2014,Third Party,Diesel,5,55000,Manual,2014,1498,26.0,10
 kolkata,Hatchback,1,Hyundai,i20,2013,Magna,12.542544882151386,2013,Comprehensive,Diesel,5,51321,Manual,2013,1396,21.9,11
 kolkata,SUV,1,Land Rover,Range Rover Evoque,2019,Petrol HSE,15.404541660620712,2019,Comprehensive,Petrol,5,29781,Automatic,2019,1997,15.68,5
-kolkata,SUV,0,Skoda,Kushaq,2022,1.0 TSI,14.038654109278484,2022,Third Party,Petrol,5,15400,Manual,2022,999,19.2,2
+kolkata,SUV,1,Skoda,Kushaq,2022,1.0 TSI,14.038654109278484,2022,Third Party,Petrol,5,15400,Manual,2022,999,19.2,2
 kolkata,SUV,2,Ford,Ecosport,2021,Thunder Edition,13.709038313453757,2021,Comprehensive,Diesel,5,21000,Manual,2021,1498,21.7,3
 kolkata,SUV,1,Hyundai,Creta,2019,1.6 SX,13.652991628466498,2019,Third Party,Diesel,5,34000,Manual,2019,1582,20.5,5
 kolkata,SUV,1,MG,Gloster,2021,Sharp,14.978661367769956,2021,Third Party,Diesel,6,19000,Automatic,2021,1996,12.4,3
