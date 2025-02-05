@@ -151,4 +151,4 @@ df_encoded = df_encoded.dropna(axis=1, how='all')
 df_encoded = df_encoded.loc[:, ~df_encoded.applymap(lambda x: isinstance(x, str) and 'https:' in x).any()]
 df_encoded = df_encoded.drop(columns=[column for column in df.columns if column in drop_columns])
 
-df_encoded.to_csv("extracted_cars_data.csv", index=False)
+df_encoded.to_csv("Datasets/extracted_cars_data.csv", index=False)

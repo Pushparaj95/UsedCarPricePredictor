@@ -303,8 +303,6 @@ def extract_max_weight(weight):
     else:
         return None
 
-    # 'Kerb_Weight' - need to separate weight 1222- 12211
-
 
 def extract_max_capacity(capacity):
     if not isinstance(capacity, str):
@@ -355,18 +353,6 @@ def clean_and_grouping_columns_with_extracted_keywords(df):
     'extracted_grouped_variant', 'grouped_variant',
     ]
     df = df.drop(columns=columns_to_drop)
-
-    # Extracting BHP, Min RPM and Max RPM
-    # df[['Power', 'power_rpm_min', 'power_rpm_max']] = pd.DataFrame(
-    #     df['Max_Power'].apply(extract_power_details).tolist(),
-    #     index=df.index)
-
-    # df[['Torque','torque_rpm_min', 'torque_rpm_max']] = pd.DataFrame(
-    #     df['Max_Torque'].apply(extract_torque_details).tolist(),
-    #     index=df.index)
-
-    # df = calculate_ranges(df)
-    # df = fill_rpm_ranges(df)
 
     df['Fuel_Suppy_System'] = df['Fuel_Suppy_System'].apply(map_to_category)
 
@@ -451,37 +437,6 @@ def impute_missing_values(df, target_column, feature_columns, model_type="classi
     return df
 
 
-def knn_impute_missing_values(df, target_column, feature_columns, n_neighbors=5):
-    """
-    Fills missing values in the target_column using KNN imputation based on related feature_columns.
-
-    Parameters:
-    - df (DataFrame): The DataFrame containing the data.
-    - target_column (str): The column with missing values to fill.
-    - feature_columns (list): List of columns to use as predictors for filling missing values.
-    - n_neighbors (int): Number of neighbors to consider for imputation.
-
-    Returns:
-    - DataFrame with missing values in target_column filled.
-    """
-    # Select the columns needed for imputation
-    impute_columns = feature_columns + [target_column]
-    
-    # Subset the dataframe to include only the necessary columns
-    impute_data = df[impute_columns]
-    
-    # Initialize KNNImputer
-    knn_imputer = KNNImputer(n_neighbors=n_neighbors)
-    
-    # Perform KNN imputation
-    imputed_data = knn_imputer.fit_transform(impute_data)
-    
-    # Update the target_column in the original DataFrame
-    df[target_column] = imputed_data[:, -1]
-    
-    return df
-
-
 def adjust_year_prediction(row):
     if row['modelYear'] < 2000 < row['Registration_Year']:
         return row['modelYear']
@@ -496,79 +451,10 @@ def label_encoder(df, column):
     return df
 
 
-    te = TargetEncoder(smoothing=smoothing, min_samples_leaf=min_samples_leaf)
-    df[column] = te.fit_transform(df[column], df[target])
-    return df
-
 def ordinal_encoder(df, column):
     oe = OrdinalEncoder()
     df[column] = oe.fit_transform(df[[column]])
     return df
-
-
-def process_and_impute_missing_values(original_df, new_df):
-    """
-    Merges the original and new DataFrame, processes missing values, encodes columns, 
-    imputes missing values, and restores original data types.
-
-    Parameters:
-    - original_df: The original DataFrame.
-    - new_df: The new DataFrame to be merged with the original.
-
-    Returns:
-    - A processed and merged DataFrame with original data types restored.
-    """
-    # Step 1: Merge the DataFrames
-    merged_df = pd.concat([original_df, new_df], ignore_index=True)
-    
-    # Step 2: Store the original data types
-    original_dtypes = original_df.dtypes.to_dict()
-
-    # Step 3: Identify columns with missing values
-    missing_df = pd.DataFrame(merged_df.isna().sum()).reset_index()
-    missing_df.columns = ['Column', 'Missing Values']
-    missing_df = missing_df[missing_df['Missing Values'] > 0]
-    missing_columns = missing_df['Column'].tolist()
-
-    # Step 4: Create encoded and imputed copies
-    df_encoded = merged_df.copy()
-    
-    # Identify columns to encode
-    columns_to_encode = [column for column in merged_df.columns if column not in missing_columns and column not in ['Engine', 'Mileage', 'Seats']]
-
-    # Step 5: Encode columns
-    for column in columns_to_encode:
-        df_encoded = label_encoder(df_encoded, column)
-
-    # Step 6: Add derived columns
-    current_year = pd.Timestamp.now().year
-    merged_df['Age_Old_In_Year'] = current_year - merged_df['Registration_Year']
-    merged_df['Price'] = merged_df['Price'].fillna(0)
-
-    # Step 7: Impute missing values
-    ignore_columns = ['Age_Old_In_Year', 'Price']
-    for column in missing_columns:
-        if column not in ignore_columns:
-            if column in ['Fuel_Type', 'Transmission']:
-                df_encoded = impute_missing_values( df_encoded, target_column=column, feature_columns=['Body_Type', 'Company', 'Model', 'Variantname'],
-                    model_type='classification'
-                )
-            else:
-                df_encoded = impute_missing_values( df_encoded, target_column=column, feature_columns=['Body_Type', 'Company', 'Model', 'Variantname'],
-                    model_type='regression'
-                )
-
-    # Step 8: Combine imputed columns back to merged_df
-    for column in merged_df.columns:
-        if column in df_encoded.columns:
-            merged_df[column] = merged_df[column].combine_first(df_encoded[column])
-    
-    # Step 9: Restore original data types
-    for column, dtype in original_dtypes.items():
-        if column in merged_df.columns:
-            merged_df[column] = merged_df[column].astype(dtype)
-
-    return merged_df
 
 
 
