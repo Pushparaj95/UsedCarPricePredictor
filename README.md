@@ -1,12 +1,16 @@
-# Car Price Predictor Project
+
 <table>
   <tr>
     <td><img src="screenshots/Cars_Price_Predictor_Home.jpg" width="400"></td>
     <td><img src="screenshots/prediction.jpg" width="400"></td>
   </tr>
 </table>
-## Project Overview
+
+## Car Dheko - Used Car Price Prediction
 The Used Car Price Predictor is a machine learning project that predicts the price of used cars based on various features like model, year of manufacture, mileage, and more. This project consists of several components such as data extraction, data cleaning, exploratory data analysis (EDA), feature selection, model building, and deployment using Streamlit.
+
+## Problem Statement
+Imagine you are working as a data scientist in Car Dheko, your aim is to enhance the customer experience and streamline the pricing process by leveraging machine learning. You need to create an accurate and user-friendly streamlit tool that predicts the prices of used cars based on various features. This tool should be deployed as an interactive web application for both customers and sales representatives to use seamlessly.
 
 The key steps involved in this project are:
 
@@ -83,13 +87,15 @@ streamlit run Cars_Price_Predictor.py
 ```
 
 ## Model Performance
-- Best Model: XGBRegressor
-- R² Score: 0.954425
-- Mean Squared Error: 0.033442
+- Model: XGBRegressor
+- R² Score: 0.95
+- Mean Squared Error: 0.03
 
 ## Key Features
 - Data cleaning and preprocessing
+- Exploratory Data Analysis
 - Advanced feature selection
+- Model Development
 - Multiple model comparison
 - Hyperparameter optimization
 - Interactive price prediction UI
