@@ -1,5 +1,10 @@
 # Car Price Predictor Project
-
+<table>
+  <tr>
+    <td><img src="screenshots/Cars_Price_Predictor_Home.jpg" width="400"></td>
+    <td><img src="screenshots/prediction.jpg" width="400"></td>
+  </tr>
+</table>
 ## Project Overview
 The Used Car Price Predictor is a machine learning project that predicts the price of used cars based on various features like model, year of manufacture, mileage, and more. This project consists of several components such as data extraction, data cleaning, exploratory data analysis (EDA), feature selection, model building, and deployment using Streamlit.
 
@@ -25,15 +30,9 @@ car-price-predictor/
 ```
 
 ## Prerequisites
-- Python 3.8+
-- Libraries:
-  - pandas
-  - numpy
-  - scikit-learn
-  - joblib
-  - streamlit
-  - matplotlib
-  - seaborn
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Installation
 
